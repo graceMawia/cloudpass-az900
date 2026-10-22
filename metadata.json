@@ -1,0 +1,6 @@
+{
+  "name": "CloudPass — AZ-900 Readiness Coach",
+  "description": "Interactive Microsoft Azure AZ-900 certification exam readiness coach with topic breakdowns, Kenyan context analogies, instant feedback, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
